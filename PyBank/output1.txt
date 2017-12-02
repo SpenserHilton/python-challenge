@@ -1,0 +1,7 @@
+Financial Analysis
+------------------
+Total months in data set: 41
+Total revenue over period: $18971412
+Average change in revenue between months: $-6758.975
+Greatest increase in revenue: $1195111
+Greatest decreasse in revenue: $-1172384
